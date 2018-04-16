@@ -1,0 +1,8 @@
+{
+  "name": "Send-Position",
+  "app_id": "15ffe411",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
